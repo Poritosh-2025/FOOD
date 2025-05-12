@@ -1,0 +1,59 @@
+2025-05-08 14:05:44,833 - ERROR: Error loading Gemini API key: GEMINI_API_KEY not found in .env file.
+2025-05-08 14:08:39,602 - INFO: Gemini API configured successfully.
+2025-05-12 20:32:31,243 - INFO: Gemini API configured successfully.
+2025-05-12 20:32:33,760 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\views.py changed, reloading.
+2025-05-12 20:32:35,036 - INFO: Gemini API configured successfully.
+2025-05-12 20:32:43,858 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\views.py changed, reloading.
+2025-05-12 20:32:45,061 - INFO: Gemini API configured successfully.
+2025-05-12 20:32:53,850 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\views.py changed, reloading.
+2025-05-12 20:32:55,077 - INFO: Gemini API configured successfully.
+2025-05-12 20:32:57,376 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\views.py changed, reloading.
+2025-05-12 20:32:58,642 - INFO: Gemini API configured successfully.
+2025-05-12 20:33:18,680 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\views.py changed, reloading.
+2025-05-12 20:33:19,875 - INFO: Gemini API configured successfully.
+2025-05-12 20:34:30,002 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\views.py changed, reloading.
+2025-05-12 20:34:31,294 - INFO: Gemini API configured successfully.
+2025-05-12 20:35:24,009 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:35:25,223 - INFO: Gemini API configured successfully.
+2025-05-12 20:35:27,755 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:35:28,881 - INFO: Gemini API configured successfully.
+2025-05-12 20:35:55,451 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\views.py changed, reloading.
+2025-05-12 20:36:31,358 - INFO: Gemini API configured successfully.
+2025-05-12 20:36:32,856 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_routes.py changed, reloading.
+2025-05-12 20:36:34,035 - INFO: Gemini API configured successfully.
+2025-05-12 20:36:37,601 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_routes.py changed, reloading.
+2025-05-12 20:36:38,765 - INFO: Gemini API configured successfully.
+2025-05-12 20:36:41,272 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_routes.py changed, reloading.
+2025-05-12 20:36:42,424 - INFO: Gemini API configured successfully.
+2025-05-12 20:36:47,080 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_routes.py changed, reloading.
+2025-05-12 20:36:48,255 - INFO: Gemini API configured successfully.
+2025-05-12 20:36:58,122 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_routes.py changed, reloading.
+2025-05-12 20:36:59,317 - INFO: Gemini API configured successfully.
+2025-05-12 20:37:07,052 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_routes.py changed, reloading.
+2025-05-12 20:37:08,251 - INFO: Gemini API configured successfully.
+2025-05-12 20:39:48,656 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\serializers.py changed, reloading.
+2025-05-12 20:39:49,848 - INFO: Gemini API configured successfully.
+2025-05-12 20:40:19,627 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\serializers.py changed, reloading.
+2025-05-12 20:40:20,867 - INFO: Gemini API configured successfully.
+2025-05-12 20:40:22,360 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\serializers.py changed, reloading.
+2025-05-12 20:41:08,554 - INFO: Gemini API configured successfully.
+2025-05-12 20:42:30,541 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:42:45,738 - INFO: Gemini API configured successfully.
+2025-05-12 20:44:03,691 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:45:38,057 - INFO: Gemini API configured successfully.
+2025-05-12 20:45:57,278 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:45:58,471 - INFO: Gemini API configured successfully.
+2025-05-12 20:46:28,247 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:46:29,493 - INFO: Gemini API configured successfully.
+2025-05-12 20:47:23,353 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:47:24,564 - INFO: Gemini API configured successfully.
+2025-05-12 20:47:44,611 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:47:45,767 - INFO: Gemini API configured successfully.
+2025-05-12 20:55:20,651 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:55:21,901 - INFO: Gemini API configured successfully.
+2025-05-12 20:56:00,749 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 20:56:01,992 - INFO: Gemini API configured successfully.
+2025-05-12 21:08:12,440 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 21:08:13,717 - INFO: Gemini API configured successfully.
+2025-05-12 21:27:05,283 - INFO: C:\Poritosh\Office_Project\FAB_and_FIT\fab_and_fit\api\api_views.py changed, reloading.
+2025-05-12 21:27:06,580 - INFO: Gemini API configured successfully.

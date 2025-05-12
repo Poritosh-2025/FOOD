@@ -1,0 +1,9 @@
+pip install google-generativeai
+pip install Pillow
+pip install dotenv
+pip install django djangorestframework google-genai Pillow tenacity python-dotenv
+pip install django-crispy-forms
+pip install genai
+pip install rustc
+# rustc download rustup.rs and install
+# import google.generativeai as genai
